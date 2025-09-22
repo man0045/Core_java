@@ -1,0 +1,24 @@
+here we can easily ensure that the jshell of the system where easily undrstood by writteing in cmd only jshell
+and we can easily able to accessible
+JRE->
+jvm->
+jdk->
+java is strongly typed language what does it mean: Every variable, expression, and object has a type (int, double, String, class type, etc.)
+Data Types:
+1-> Primitive
+2-> Non Primitive
+
+In primitive -> Integer, float, characters, Boolean
+Integer->
+int -> 4bytes
+long -> 8bytes
+short -> 2bytes
+byte -> 1byte
+float-> 4bytrs
+double -> 8bytes
+
+to defining float values we can define like
+double num = 5.6f
+for char 
+it is of 2bytes and can be expressed in UNICODE
+Boolean -> true or false
