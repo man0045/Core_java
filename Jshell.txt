@@ -22,3 +22,13 @@ double num = 5.6f
 for char 
 it is of 2bytes and can be expressed in UNICODE
 Boolean -> true or false
+chapter 3:
+Type casting and type conversion 
+two types of type conversion one is Explicit Conversion and Second is Implicit Conevsrdion
+Explicit Conversion -> int(str)
+implicit is llinke assigning one from other
+like int a = 1234
+and string b = "453"
+(b = a) -> this become some where equal to Implicit type conversion
+
+
