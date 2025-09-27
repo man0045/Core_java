@@ -30,5 +30,4 @@ implicit is llinke assigning one from other
 like int a = 1234
 and string b = "453"
 (b = a) -> this become some where equal to Implicit type conversion
-
-
+jagged Array is an array which is used to create a array of different length manually
