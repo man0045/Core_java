@@ -31,3 +31,15 @@ like int a = 1234
 and string b = "453"
 (b = a) -> this become some where equal to Implicit type conversion
 jagged Array is an array which is used to create a array of different length manually
+if the Inheritace will not be extended it can not be called and shows on the system of data and flows
+//Final Keyword 
+
+Final Keyword(Variable) -> can be used as a keyword =, with a variable, or with a methods as well
+
+By using with variable it makes the cariable constant it does not get changed
+final class: -> once we make our class final we are making it to avoid inheritance
+final methods: ->it is mostly used for the to avoid the methods overriding
+abstract method will be only feasible with  abstract class
+
+ABstract class can have normal methods also
+Question --> Is it compulsary that have an abstract method in abstract class , Ans Is No
