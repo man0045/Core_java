@@ -1,0 +1,33 @@
+here we can easily ensure that the jshell of the system where easily undrstood by writteing in cmd only jshell
+and we can easily able to accessible
+JRE->
+jvm->
+jdk->
+java is strongly typed language what does it mean: Every variable, expression, and object has a type (int, double, String, class type, etc.)
+Data Types:
+1-> Primitive
+2-> Non Primitive
+
+In primitive -> Integer, float, characters, Boolean
+Integer->
+int -> 4bytes
+long -> 8bytes
+short -> 2bytes
+byte -> 1byte
+float-> 4bytrs
+double -> 8bytes
+
+to defining float values we can define like
+double num = 5.6f
+for char 
+it is of 2bytes and can be expressed in UNICODE
+Boolean -> true or false
+chapter 3:
+Type casting and type conversion 
+two types of type conversion one is Explicit Conversion and Second is Implicit Conevsrdion
+Explicit Conversion -> int(str)
+implicit is llinke assigning one from other
+like int a = 1234
+and string b = "453"
+(b = a) -> this become some where equal to Implicit type conversion
+jagged Array is an array which is used to create a array of different length manually
