@@ -43,3 +43,22 @@ abstract method will be only feasible with  abstract class
 
 ABstract class can have normal methods also
 Question --> Is it compulsary that have an abstract method in abstract class , Ans Is No
+
+Interfaces: -> 
+Enum(Enumerations)-> 
+we can not Extends Enum with any other class
+Annotation: ------>>>>>>>>
+Different types of Annotations
+
+1-> @Override
+2-> @Depracated
+3-> @Safe varrags
+4-> @Suppress Warnings
+and many more
+
+Types of Interfaces
+
+Normal Interfaces: the interfaces which have two or methods known as Normal interfaces
+Functional Interfaces /SAM(Single abstract Method): only one method inside interface is called Sam or Functional Interfaces
+Marker Interfaces: A marker Interfaces are those types of interfaces which have no methods
+Lambda Expression with java Interface:-> represented by ->Lambda Expression only works with function Interfaaces if there is no functional Interfaces it will not move
