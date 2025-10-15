@@ -62,3 +62,5 @@ Normal Interfaces: the interfaces which have two or methods known as Normal inte
 Functional Interfaces /SAM(Single abstract Method): only one method inside interface is called Sam or Functional Interfaces
 Marker Interfaces: A marker Interfaces are those types of interfaces which have no methods
 Lambda Expression with java Interface:-> represented by ->Lambda Expression only works with function Interfaaces if there is no functional Interfaces it will not move
+it is better to keep parent class downward Area where the class parent is belowed above it keep known error on the topest parent
+Such as Arithmatic Exception, Divides by zero, etc; than after this keep Exception as e only
